@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 02:29:00",
+ "updated_at": "2026-10-18 02:31:44",
  "baseline": 0.42,
  "rows": [
   {
@@ -611,6 +611,22 @@
    ]
   },
   {
+   "id": "zzv_half",
+   "best": 0.3462,
+   "last": 0.3462,
+   "count": 1,
+   "history": [
+    {
+     "t": "10-17 16:55",
+     "score": 0.3462,
+     "recall": 0.333,
+     "precision": 0.333,
+     "faith": 0.562,
+     "relevancy": 0.19
+    }
+   ]
+  },
+  {
    "id": "rag7",
    "best": 0.0865,
    "last": 0.0865,
@@ -865,6 +881,6 @@
    "last": "20261017165608969"
   }
  },
- "pending": 2,
+ "pending": 1,
  "closed": false
 }
