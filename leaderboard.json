@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 01:02:31",
+ "updated_at": "2026-10-18 01:55:01",
  "baseline": 0.42,
  "rows": [
   {
@@ -483,6 +483,22 @@
    ]
   },
   {
+   "id": "zzrehearsal",
+   "best": 0.6181,
+   "last": 0.6181,
+   "count": 1,
+   "history": [
+    {
+     "t": "10-17 16:51",
+     "score": 0.6181,
+     "recall": 0.667,
+     "precision": 0.667,
+     "faith": 0.556,
+     "relevancy": 0.454
+    }
+   ]
+  },
+  {
    "id": "sososo_sad",
    "best": 0.431,
    "last": 0.431,
@@ -695,8 +711,12 @@
   "speedtest": {
    "count": 2,
    "last": "20260814063449"
+  },
+  "zzrehearsal": {
+   "count": 1,
+   "last": "20261017165132333"
   }
  },
  "pending": 0,
- "closed": true
+ "closed": false
 }
