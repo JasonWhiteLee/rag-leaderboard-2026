@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 01:55:01",
+ "updated_at": "2026-10-18 02:15:15",
  "baseline": 0.42,
  "rows": [
   {
@@ -499,6 +499,22 @@
    ]
   },
   {
+   "id": "zzv_same",
+   "best": 0.6181,
+   "last": 0.6181,
+   "count": 1,
+   "history": [
+    {
+     "t": "10-17 16:55",
+     "score": 0.6181,
+     "recall": 0.667,
+     "precision": 0.667,
+     "faith": 0.556,
+     "relevancy": 0.454
+    }
+   ]
+  },
+  {
    "id": "sososo_sad",
    "best": 0.431,
    "last": 0.431,
@@ -617,6 +633,22 @@
      "relevancy": 0.0
     }
    ]
+  },
+  {
+   "id": "포잉이짱",
+   "best": 0.075,
+   "last": 0.075,
+   "count": 1,
+   "history": [
+    {
+     "t": "10-17 16:54",
+     "score": 0.075,
+     "recall": 0.0,
+     "precision": 0.0,
+     "faith": 0.5,
+     "relevancy": 0.0
+    }
+   ]
   }
  ],
  "submitted": {
@@ -715,8 +747,44 @@
   "zzrehearsal": {
    "count": 1,
    "last": "20261017165132333"
+  },
+  "포잉이짱": {
+   "count": 1,
+   "last": "20261017165416398"
+  },
+  "포잉이": {
+   "count": 1,
+   "last": "20261017165417534"
+  },
+  "rag7": {
+   "count": 1,
+   "last": "20261017165418531"
+  },
+  "zzedge2": {
+   "count": 1,
+   "last": "20261017165422583"
+  },
+  "zzedge3": {
+   "count": 1,
+   "last": "20261017165423613"
+  },
+  "zzv_bad": {
+   "count": 1,
+   "last": "20261017165540448"
+  },
+  "zzv_half": {
+   "count": 1,
+   "last": "20261017165542199"
+  },
+  "zzv_same": {
+   "count": 1,
+   "last": "20261017165544005"
+  },
+  "zzUI포잉": {
+   "count": 1,
+   "last": "20261017165608969"
   }
  },
- "pending": 0,
+ "pending": 7,
  "closed": false
 }
