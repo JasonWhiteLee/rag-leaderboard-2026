@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 02:20:48",
+ "updated_at": "2026-10-18 02:23:27",
  "baseline": 0.42,
  "rows": [
   {
@@ -681,6 +681,22 @@
      "relevancy": 0.0
     }
    ]
+  },
+  {
+   "id": "zzedge2",
+   "best": 0.0692,
+   "last": 0.0692,
+   "count": 1,
+   "history": [
+    {
+     "t": "10-17 16:54",
+     "score": 0.0692,
+     "recall": 0.0,
+     "precision": 0.0,
+     "faith": 0.462,
+     "relevancy": 0.0
+    }
+   ]
   }
  ],
  "submitted": {
@@ -817,6 +833,6 @@
    "last": "20261017165608969"
   }
  },
- "pending": 5,
+ "pending": 4,
  "closed": false
 }
