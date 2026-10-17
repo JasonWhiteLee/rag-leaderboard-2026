@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 02:35:00",
+ "updated_at": "2026-10-18 02:51:01",
  "baseline": 0.42,
  "rows": [
   {
@@ -483,38 +483,6 @@
    ]
   },
   {
-   "id": "zzrehearsal",
-   "best": 0.6181,
-   "last": 0.6181,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:51",
-     "score": 0.6181,
-     "recall": 0.667,
-     "precision": 0.667,
-     "faith": 0.556,
-     "relevancy": 0.454
-    }
-   ]
-  },
-  {
-   "id": "zzv_same",
-   "best": 0.6181,
-   "last": 0.6181,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:55",
-     "score": 0.6181,
-     "recall": 0.667,
-     "precision": 0.667,
-     "faith": 0.556,
-     "relevancy": 0.454
-    }
-   ]
-  },
-  {
    "id": "sososo_sad",
    "best": 0.431,
    "last": 0.431,
@@ -611,38 +579,6 @@
    ]
   },
   {
-   "id": "zzv_half",
-   "best": 0.3462,
-   "last": 0.3462,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:55",
-     "score": 0.3462,
-     "recall": 0.333,
-     "precision": 0.333,
-     "faith": 0.562,
-     "relevancy": 0.19
-    }
-   ]
-  },
-  {
-   "id": "rag7",
-   "best": 0.0865,
-   "last": 0.0865,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:54",
-     "score": 0.0865,
-     "recall": 0.0,
-     "precision": 0.0,
-     "faith": 0.577,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
    "id": "speedtest",
    "best": 0.0828,
    "last": 0.0828,
@@ -662,102 +598,6 @@
      "recall": 0.0,
      "precision": 0.0,
      "faith": 0.552,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
-   "id": "포잉이",
-   "best": 0.08,
-   "last": 0.08,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:54",
-     "score": 0.08,
-     "recall": 0.0,
-     "precision": 0.0,
-     "faith": 0.533,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
-   "id": "포잉이짱",
-   "best": 0.075,
-   "last": 0.075,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:54",
-     "score": 0.075,
-     "recall": 0.0,
-     "precision": 0.0,
-     "faith": 0.5,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
-   "id": "zzedge2",
-   "best": 0.0692,
-   "last": 0.0692,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:54",
-     "score": 0.0692,
-     "recall": 0.0,
-     "precision": 0.0,
-     "faith": 0.462,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
-   "id": "zzedge3",
-   "best": 0.06,
-   "last": 0.06,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:54",
-     "score": 0.06,
-     "recall": 0.0,
-     "precision": 0.0,
-     "faith": 0.4,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
-   "id": "zzUI포잉",
-   "best": 0.0431,
-   "last": 0.0431,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:56",
-     "score": 0.0431,
-     "recall": 0.111,
-     "precision": 0.0,
-     "faith": 0.028,
-     "relevancy": 0.0
-    }
-   ]
-  },
-  {
-   "id": "zzv_bad",
-   "best": 0.0,
-   "last": 0.0,
-   "count": 1,
-   "history": [
-    {
-     "t": "10-17 16:55",
-     "score": 0.0,
-     "recall": 0.0,
-     "precision": 0.0,
-     "faith": 0.0,
      "relevancy": 0.0
     }
    ]
@@ -855,48 +695,8 @@
   "speedtest": {
    "count": 2,
    "last": "20260814063449"
-  },
-  "zzrehearsal": {
-   "count": 1,
-   "last": "20261017165132333"
-  },
-  "포잉이짱": {
-   "count": 1,
-   "last": "20261017165416398"
-  },
-  "포잉이": {
-   "count": 1,
-   "last": "20261017165417534"
-  },
-  "rag7": {
-   "count": 1,
-   "last": "20261017165418531"
-  },
-  "zzedge2": {
-   "count": 1,
-   "last": "20261017165422583"
-  },
-  "zzedge3": {
-   "count": 1,
-   "last": "20261017165423613"
-  },
-  "zzv_bad": {
-   "count": 1,
-   "last": "20261017165540448"
-  },
-  "zzv_half": {
-   "count": 1,
-   "last": "20261017165542199"
-  },
-  "zzv_same": {
-   "count": 1,
-   "last": "20261017165544005"
-  },
-  "zzUI포잉": {
-   "count": 1,
-   "last": "20261017165608969"
   }
  },
  "pending": 0,
- "closed": false
+ "closed": true
 }
