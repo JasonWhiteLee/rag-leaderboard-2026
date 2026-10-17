@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 02:31:44",
+ "updated_at": "2026-10-18 02:34:59",
  "baseline": 0.42,
  "rows": [
   {
@@ -731,6 +731,22 @@
    ]
   },
   {
+   "id": "zzUI포잉",
+   "best": 0.0431,
+   "last": 0.0431,
+   "count": 1,
+   "history": [
+    {
+     "t": "10-17 16:56",
+     "score": 0.0431,
+     "recall": 0.111,
+     "precision": 0.0,
+     "faith": 0.028,
+     "relevancy": 0.0
+    }
+   ]
+  },
+  {
    "id": "zzv_bad",
    "best": 0.0,
    "last": 0.0,
@@ -881,6 +897,6 @@
    "last": "20261017165608969"
   }
  },
- "pending": 1,
+ "pending": 0,
  "closed": false
 }
